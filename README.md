@@ -13,4 +13,4 @@ Consumindo a API de Filmes [The Movie Database API](https://developers.themovied
 
 ![WEB](https://github.com/jeanjefersson/movie/blob/master/web.png)
 
-![WEBPOST](https://github.com/jeanjefersson/movie/blob/master/webpost.png)
+![WEBPOST](https://github.com/jeanjefersson/movie/blob/master/postweb.png)

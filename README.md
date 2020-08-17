@@ -5,7 +5,7 @@ Aplicativo escrito em Dart, com o framework cross platform Flutter.
 
 Consumindo a API de Filmes [The Movie Database API](https://developers.themoviedb.org/3/movies/get-popular-movies). 
 
-O Build funciona para mobile (IOS e Android),além de web e windows em Beta. 
+O Build funciona para mobile (IOS e Android), além de web e windows em Beta. 
 
 
 Após a obtenção dos dados da API e a conversão do Json para Dart, são exibidos em uma ListView Builder. 

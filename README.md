@@ -7,10 +7,10 @@ Consumindo a API de Filmes [The Movie Database API](https://developers.themovied
 
 ![SCREEN](https://github.com/jeanjefersson/movie/blob/master/screen.png)
 
-![SCROLL](hhttps://github.com/jeanjefersson/movie/blob/master/scrow.png)
+![SCROLL](https://github.com/jeanjefersson/movie/blob/master/scrow.png)
 
-![POST](hhttps://github.com/jeanjefersson/movie/blob/master/post.png)
+![POST](https://github.com/jeanjefersson/movie/blob/master/post.png)
 
-![WEB](hhttps://github.com/jeanjefersson/movie/blob/master/web.png)
+![WEB](https://github.com/jeanjefersson/movie/blob/master/web.png)
 
-![WEBPOST](hhttps://github.com/jeanjefersson/movie/blob/master/post.png)
+![WEBPOST](https://github.com/jeanjefersson/movie/blob/master/post.png)
